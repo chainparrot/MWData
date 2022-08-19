@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "the-sandbox",
+    "name": "The Sandbox",
+    "url": "https://coinmarketcap.com/currencies/the-sandbox/",
+    "rank": 37,
+    "watchlist": 2267179,
+    "id": 3,
+    "percentage": 4.51,
+    "timestamp": "Aug 19, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/6210.png",
+    "difference": 151,
+    "degisim": 0.006660259291392519
+  },
+  {
+    "slug": "cardano",
+    "name": "Cardano",
+    "url": "https://coinmarketcap.com/currencies/cardano/",
+    "rank": 8,
+    "watchlist": 2206469,
+    "id": 4,
+    "percentage": 4.39,
+    "timestamp": "Aug 19, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2010.png",
+    "difference": 588,
+    "degisim": 0.026648912810467766
+  },
+  {
+    "slug": "bnb",
+    "name": "Binance Coin",
+    "url": "https://coinmarketcap.com/currencies/bnb/",
+    "rank": 5,
+    "watchlist": 1771076,
+    "id": 5,
+    "percentage": 3.52,
+    "timestamp": "Aug 19, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
+    "difference": 717,
+    "degisim": 0.04048386404648925
+  },
+  {
+    "slug": "shiba-inu",
+    "name": "Shiba Inu",
+    "url": "https://coinmarketcap.com/currencies/shiba-inu/",
+    "rank": 12,
+    "watchlist": 1768053,
+    "id": 6,
+    "percentage": 3.52,
+    "timestamp": "Aug 19, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5994.png",
+    "difference": 699,
+    "degisim": 0.03953501393906178
+  },
+  {
+    "slug": "solana",
+    "name": "Solana",
+    "url": "https://coinmarketcap.com/currencies/solana/",
+    "rank": 9,
+    "watchlist": 1695961,
+    "id": 7,
+    "percentage": 3.37,
+    "timestamp": "Aug 19, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5426.png",
+    "difference": 570,
+    "degisim": 0.03360926342056215
+  }
+]
