@@ -1,67 +1,67 @@
 [
   {
+    "slug": "cardano",
+    "name": "Cardano",
+    "url": "https://coinmarketcap.com/currencies/cardano/",
+    "rank": 7,
+    "watchlist": 2213431,
+    "id": 4,
+    "percentage": 4.42,
+    "timestamp": "Sep 04, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2010.png",
+    "difference": 588,
+    "degisim": 0.026565092835511925
+  },
+  {
     "slug": "bnb",
     "name": "Binance Coin",
     "url": "https://coinmarketcap.com/currencies/bnb/",
     "rank": 5,
-    "watchlist": 1779241,
+    "watchlist": 1779809,
     "id": 5,
     "percentage": 3.56,
-    "timestamp": "Sep 03, 2022",
+    "timestamp": "Sep 04, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
-    "difference": 527,
-    "degisim": 0.02961937140612205
+    "difference": 568,
+    "degisim": 0.031913536789621805
   },
   {
     "slug": "polygon",
     "name": "Polygon",
     "url": "https://coinmarketcap.com/currencies/polygon/",
     "rank": 12,
-    "watchlist": 1289659,
+    "watchlist": 1290112,
     "id": 11,
     "percentage": 2.58,
-    "timestamp": "Sep 03, 2022",
+    "timestamp": "Sep 04, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3890.png",
-    "difference": 447,
-    "degisim": 0.0346603249386078
-  },
-  {
-    "slug": "cardano",
-    "name": "Cardano",
-    "url": "https://coinmarketcap.com/currencies/cardano/",
-    "rank": 8,
-    "watchlist": 2212843,
-    "id": 4,
-    "percentage": 4.42,
-    "timestamp": "Sep 03, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2010.png",
-    "difference": 394,
-    "degisim": 0.017805149303407427
+    "difference": 453,
+    "degisim": 0.035113230479214205
   },
   {
     "slug": "shiba-inu",
     "name": "Shiba Inu",
     "url": "https://coinmarketcap.com/currencies/shiba-inu/",
     "rank": 14,
-    "watchlist": 1774483,
+    "watchlist": 1774907,
     "id": 6,
     "percentage": 3.55,
-    "timestamp": "Sep 03, 2022",
+    "timestamp": "Sep 04, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5994.png",
-    "difference": 373,
-    "degisim": 0.021020207012408684
+    "difference": 424,
+    "degisim": 0.023888575570438338
   },
   {
-    "slug": "helium",
-    "name": "Helium",
-    "url": "https://coinmarketcap.com/currencies/helium/",
-    "rank": 69,
-    "watchlist": 314794,
-    "id": 45,
-    "percentage": 0.63,
-    "timestamp": "Sep 03, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5665.png",
-    "difference": 349,
-    "degisim": 0.11086615373863543
+    "slug": "filecoin",
+    "name": "Filecoin",
+    "url": "https://coinmarketcap.com/currencies/filecoin/",
+    "rank": 32,
+    "watchlist": 346835,
+    "id": 43,
+    "percentage": 0.69,
+    "timestamp": "Sep 04, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2280.png",
+    "difference": 407,
+    "degisim": 0.11734686522409792
   }
 ]
