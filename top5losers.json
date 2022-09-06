@@ -3,13 +3,39 @@
     "slug": "usdd",
     "name": "USDD",
     "url": "https://coinmarketcap.com/currencies/usdd/",
-    "rank": 58,
-    "watchlist": 10856,
-    "id": 98,
+    "rank": 59,
+    "watchlist": 10853,
+    "id": 99,
     "percentage": 0.02,
-    "timestamp": "Sep 05, 2022",
+    "timestamp": "Sep 06, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -3,
+    "degisim": -0.027642126600939832
+  },
+  {
+    "slug": "fei-usd",
+    "name": "FEI USD",
+    "url": "https://coinmarketcap.com/currencies/fei-usd/",
+    "rank": 84,
+    "watchlist": 9561,
+    "id": 100,
+    "percentage": 0.02,
+    "timestamp": "Sep 06, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/8642.png",
+    "difference": -2,
+    "degisim": -0.0209183139838929
+  },
+  {
+    "slug": "okb",
+    "name": "Okb",
+    "url": "https://coinmarketcap.com/currencies/okb/",
+    "rank": 51,
+    "watchlist": 63817,
+    "id": 89,
+    "percentage": 0.13,
+    "timestamp": "Sep 06, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3897.png",
     "difference": -1,
-    "degisim": -0.009211495946941784
+    "degisim": -0.0015669805851105507
   }
 ]
