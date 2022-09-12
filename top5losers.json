@@ -4,12 +4,25 @@
     "name": "USDD",
     "url": "https://coinmarketcap.com/currencies/usdd/",
     "rank": 60,
-    "watchlist": 10856,
+    "watchlist": 10849,
     "id": 99,
     "percentage": 0.02,
-    "timestamp": "Sep 11, 2022",
+    "timestamp": "Sep 12, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
-    "difference": -4,
-    "degisim": -0.036845983787767135
+    "difference": -7,
+    "degisim": -0.06452207576735183
+  },
+  {
+    "slug": "green-metaverse-token",
+    "name": "STEPN",
+    "url": "https://coinmarketcap.com/currencies/green-metaverse-token/",
+    "rank": 87,
+    "watchlist": 231798,
+    "id": 58,
+    "percentage": 0.46,
+    "timestamp": "Sep 12, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/18069.png",
+    "difference": -2,
+    "degisim": -0.0008628202141519771
   }
 ]
