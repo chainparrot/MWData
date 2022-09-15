@@ -1,41 +1,41 @@
 [
   {
+    "slug": "fantom",
+    "name": "Fantom",
+    "url": "https://coinmarketcap.com/currencies/fantom/",
+    "rank": 65,
+    "watchlist": 682528,
+    "id": 22,
+    "percentage": 1.33,
+    "timestamp": "Sep 15, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3513.png",
+    "difference": -23,
+    "degisim": -0.003369825120727648
+  },
+  {
     "slug": "green-metaverse-token",
     "name": "STEPN",
     "url": "https://coinmarketcap.com/currencies/green-metaverse-token/",
-    "rank": 89,
-    "watchlist": 231817,
-    "id": 58,
-    "percentage": 0.46,
-    "timestamp": "Sep 14, 2022",
+    "rank": 88,
+    "watchlist": 231803,
+    "id": 59,
+    "percentage": 0.45,
+    "timestamp": "Sep 15, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/18069.png",
-    "difference": -11,
-    "degisim": -0.004745122230034898
+    "difference": -14,
+    "degisim": -0.006039611221597649
   },
   {
-    "slug": "usdd",
-    "name": "USDD",
-    "url": "https://coinmarketcap.com/currencies/usdd/",
-    "rank": 58,
-    "watchlist": 10838,
-    "id": 99,
-    "percentage": 0.02,
-    "timestamp": "Sep 14, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
-    "difference": -9,
-    "degisim": -0.08304115150396751
-  },
-  {
-    "slug": "bitcoin-sv",
-    "name": "Bitcoin SV",
-    "url": "https://coinmarketcap.com/currencies/bitcoin-sv/",
-    "rank": 49,
-    "watchlist": 72867,
-    "id": 85,
-    "percentage": 0.14,
-    "timestamp": "Sep 14, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3602.png",
-    "difference": -1,
-    "degisim": -0.0013723633469197305
+    "slug": "neo",
+    "name": "Neo",
+    "url": "https://coinmarketcap.com/currencies/neo/",
+    "rank": 64,
+    "watchlist": 265845,
+    "id": 51,
+    "percentage": 0.52,
+    "timestamp": "Sep 15, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1376.png",
+    "difference": -3,
+    "degisim": -0.0011284771201263894
   }
 ]
