@@ -3,39 +3,26 @@
     "slug": "green-metaverse-token",
     "name": "STEPN",
     "url": "https://coinmarketcap.com/currencies/green-metaverse-token/",
-    "rank": 87,
-    "watchlist": 231804,
+    "rank": 85,
+    "watchlist": 231800,
     "id": 59,
     "percentage": 0.45,
-    "timestamp": "Sep 17, 2022",
+    "timestamp": "Sep 18, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/18069.png",
-    "difference": -12,
-    "degisim": -0.005176787285810426
+    "difference": -4,
+    "degisim": -0.001725625539257981
   },
   {
     "slug": "usdd",
     "name": "USDD",
     "url": "https://coinmarketcap.com/currencies/usdd/",
     "rank": 58,
-    "watchlist": 10834,
+    "watchlist": 10830,
     "id": 99,
     "percentage": 0.02,
-    "timestamp": "Sep 17, 2022",
+    "timestamp": "Sep 18, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
-    "difference": -7,
-    "degisim": -0.06461140852870592
-  },
-  {
-    "slug": "huobi-token",
-    "name": "Huobi Token",
-    "url": "https://coinmarketcap.com/currencies/huobi-token/",
-    "rank": 59,
-    "watchlist": 108761,
-    "id": 82,
-    "percentage": 0.21,
-    "timestamp": "Sep 17, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2502.png",
-    "difference": -1,
-    "degisim": -0.0009194472283263303
+    "difference": -4,
+    "degisim": -0.036934441366574325
   }
 ]
