@@ -1,28 +1,15 @@
 [
   {
-    "slug": "nem",
-    "name": "Nem",
-    "url": "https://coinmarketcap.com/currencies/nem/",
-    "rank": 90,
-    "watchlist": 168202,
-    "id": 72,
-    "percentage": 0.32,
-    "timestamp": "Sep 22, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/873.png",
-    "difference": -8,
-    "degisim": -0.004756186014435024
-  },
-  {
-    "slug": "decred",
-    "name": "Decred",
-    "url": "https://coinmarketcap.com/currencies/decred/",
-    "rank": 93,
-    "watchlist": 59608,
-    "id": 91,
-    "percentage": 0.12,
-    "timestamp": "Sep 22, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1168.png",
-    "difference": -4,
-    "degisim": -0.0067105086565561675
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 58,
+    "watchlist": 10828,
+    "id": 99,
+    "percentage": 0.02,
+    "timestamp": "Sep 23, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -3,
+    "degisim": -0.02770594754340599
   }
 ]
