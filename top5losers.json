@@ -1,15 +1,15 @@
 [
   {
-    "slug": "usdd",
-    "name": "USDD",
-    "url": "https://coinmarketcap.com/currencies/usdd/",
-    "rank": 58,
-    "watchlist": 10827,
-    "id": 99,
-    "percentage": 0.02,
-    "timestamp": "Sep 24, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
-    "difference": -1,
-    "degisim": -0.009236168837166343
+    "slug": "celsius",
+    "name": "Celsius",
+    "url": "https://coinmarketcap.com/currencies/celsius/",
+    "rank": 89,
+    "watchlist": 112347,
+    "id": 82,
+    "percentage": 0.22,
+    "timestamp": "Sep 25, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2700.png",
+    "difference": -16,
+    "degisim": -0.014241590785690761
   }
 ]
