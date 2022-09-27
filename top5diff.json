@@ -1,67 +1,67 @@
 [
   {
+    "slug": "terra-luna",
+    "name": "Terra Luna",
+    "url": "https://coinmarketcap.com/currencies/terra-luna/",
+    "rank": 31,
+    "watchlist": 1018335,
+    "id": 13,
+    "percentage": 1.96,
+    "timestamp": "Sep 27, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4172.png",
+    "difference": 1034,
+    "degisim": 0.1015382953546721
+  },
+  {
     "slug": "tether",
     "name": "Tether",
     "url": "https://coinmarketcap.com/currencies/tether/",
     "rank": 3,
-    "watchlist": 1238572,
+    "watchlist": 1239501,
     "id": 12,
     "percentage": 2.39,
-    "timestamp": "Sep 26, 2022",
+    "timestamp": "Sep 27, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/825.png",
-    "difference": 1074,
-    "degisim": 0.08671276276227785
+    "difference": 929,
+    "degisim": 0.07494951597457364
   },
   {
     "slug": "xrp",
     "name": "Ripple",
     "url": "https://coinmarketcap.com/currencies/xrp/",
     "rank": 6,
-    "watchlist": 1648523,
+    "watchlist": 1649192,
     "id": 8,
     "percentage": 3.18,
-    "timestamp": "Sep 26, 2022",
+    "timestamp": "Sep 27, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/52.png",
-    "difference": 906,
-    "degisim": 0.05495828690288215
-  },
-  {
-    "slug": "reserve-rights",
-    "name": "Reserve-rights",
-    "url": "https://coinmarketcap.com/currencies/reserve-rights/",
-    "rank": 98,
-    "watchlist": 149068,
-    "id": 75,
-    "percentage": 0.29,
-    "timestamp": "Sep 26, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3964.png",
-    "difference": 578,
-    "degisim": 0.3877425067754313
+    "difference": 669,
+    "degisim": 0.04056531925937065
   },
   {
     "slug": "algorand",
     "name": "Algorand",
     "url": "https://coinmarketcap.com/currencies/algorand/",
-    "rank": 28,
-    "watchlist": 591574,
+    "rank": 29,
+    "watchlist": 591940,
     "id": 28,
     "percentage": 1.14,
-    "timestamp": "Sep 26, 2022",
+    "timestamp": "Sep 27, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4030.png",
-    "difference": 365,
-    "degisim": 0.06169980425103199
+    "difference": 366,
+    "degisim": 0.06183059093827077
   },
   {
     "slug": "bnb",
     "name": "Binance Coin",
     "url": "https://coinmarketcap.com/currencies/bnb/",
     "rank": 5,
-    "watchlist": 1788211,
+    "watchlist": 1788550,
     "id": 5,
     "percentage": 3.45,
-    "timestamp": "Sep 26, 2022",
+    "timestamp": "Sep 27, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
-    "difference": 332,
-    "degisim": 0.01856604170313235
+    "difference": 339,
+    "degisim": 0.01895390120488664
   }
 ]
