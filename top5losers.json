@@ -1,15 +1,15 @@
 [
   {
-    "slug": "waves",
-    "name": "Waves",
-    "url": "https://coinmarketcap.com/currencies/waves/",
-    "rank": 82,
-    "watchlist": 181664,
-    "id": 69,
-    "percentage": 0.36,
-    "timestamp": "Sep 29, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1274.png",
-    "difference": -3,
-    "degisim": -0.0016514003875286243
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 57,
+    "watchlist": 10834,
+    "id": 99,
+    "percentage": 0.02,
+    "timestamp": "Sep 30, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -2,
+    "degisim": -0.018460402436773122
   }
 ]
