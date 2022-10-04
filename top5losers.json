@@ -1,15 +1,28 @@
 [
   {
+    "slug": "paxos-standard",
+    "name": "Paxos Standard",
+    "url": "https://coinmarketcap.com/currencies/paxos-standard/",
+    "rank": 49,
+    "watchlist": 27861,
+    "id": 97,
+    "percentage": 0.05,
+    "timestamp": "Oct 04, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3330.png",
+    "difference": -6,
+    "degisim": -0.02153547970281038
+  },
+  {
     "slug": "celsius",
     "name": "Celsius",
     "url": "https://coinmarketcap.com/currencies/celsius/",
     "rank": 99,
-    "watchlist": 112425,
+    "watchlist": 112420,
     "id": 82,
     "percentage": 0.22,
-    "timestamp": "Oct 03, 2022",
+    "timestamp": "Oct 04, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2700.png",
     "difference": -5,
-    "degisim": -0.0044474093840338
+    "degisim": -0.004447607187333215
   }
 ]
