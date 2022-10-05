@@ -1,28 +1,28 @@
 [
   {
-    "slug": "paxos-standard",
-    "name": "Paxos Standard",
-    "url": "https://coinmarketcap.com/currencies/paxos-standard/",
-    "rank": 49,
-    "watchlist": 27861,
-    "id": 97,
-    "percentage": 0.05,
-    "timestamp": "Oct 04, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3330.png",
-    "difference": -6,
-    "degisim": -0.02153547970281038
+    "slug": "terra-luna-v2",
+    "name": "Terra Luna",
+    "url": "https://coinmarketcap.com/currencies/terra-luna-v2/",
+    "rank": 99,
+    "watchlist": 132152,
+    "id": 78,
+    "percentage": 0.26,
+    "timestamp": "Oct 05, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/20314.png",
+    "difference": -890009,
+    "degisim": -673.4737272231976
   },
   {
-    "slug": "celsius",
-    "name": "Celsius",
-    "url": "https://coinmarketcap.com/currencies/celsius/",
-    "rank": 99,
-    "watchlist": 112420,
-    "id": 82,
-    "percentage": 0.22,
-    "timestamp": "Oct 04, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2700.png",
-    "difference": -5,
-    "degisim": -0.004447607187333215
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 57,
+    "watchlist": 10839,
+    "id": 99,
+    "percentage": 0.02,
+    "timestamp": "Oct 05, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -1,
+    "degisim": -0.009225943352707815
   }
 ]
