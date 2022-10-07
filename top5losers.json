@@ -1,15 +1,15 @@
 [
   {
-    "slug": "trueusd",
-    "name": "Trueusd",
-    "url": "https://coinmarketcap.com/currencies/trueusd/",
-    "rank": 53,
-    "watchlist": 28041,
-    "id": 96,
-    "percentage": 0.05,
-    "timestamp": "Oct 06, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2563.png",
-    "difference": -3,
-    "degisim": -0.010698619878035734
+    "slug": "neo",
+    "name": "Neo",
+    "url": "https://coinmarketcap.com/currencies/neo/",
+    "rank": 65,
+    "watchlist": 266266,
+    "id": 50,
+    "percentage": 0.52,
+    "timestamp": "Oct 07, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1376.png",
+    "difference": -9,
+    "degisim": -0.0033800785680484927
   }
 ]
