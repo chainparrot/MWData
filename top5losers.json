@@ -1,15 +1,15 @@
 [
   {
-    "slug": "neo",
-    "name": "Neo",
-    "url": "https://coinmarketcap.com/currencies/neo/",
-    "rank": 65,
-    "watchlist": 266266,
-    "id": 50,
-    "percentage": 0.52,
-    "timestamp": "Oct 07, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1376.png",
-    "difference": -9,
-    "degisim": -0.0033800785680484927
+    "slug": "enjin-coin",
+    "name": "Enjin Coin",
+    "url": "https://coinmarketcap.com/currencies/enjin-coin/",
+    "rank": 76,
+    "watchlist": 580940,
+    "id": 28,
+    "percentage": 1.13,
+    "timestamp": "Oct 08, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2130.png",
+    "difference": -12,
+    "degisim": -0.0020656177918545807
   }
 ]
