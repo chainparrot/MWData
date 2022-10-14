@@ -1,15 +1,28 @@
 [
   {
-    "slug": "terra-luna-v2",
-    "name": "Terra Luna",
-    "url": "https://coinmarketcap.com/currencies/terra-luna-v2/",
-    "rank": 97,
-    "watchlist": 132677,
-    "id": 77,
-    "percentage": 0.26,
-    "timestamp": "Oct 13, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/20314.png",
-    "difference": -891964,
-    "degisim": -672.2823096693473
+    "slug": "waves",
+    "name": "Waves",
+    "url": "https://coinmarketcap.com/currencies/waves/",
+    "rank": 88,
+    "watchlist": 181952,
+    "id": 69,
+    "percentage": 0.35,
+    "timestamp": "Oct 14, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1274.png",
+    "difference": -3,
+    "degisim": -0.0016487864931410484
+  },
+  {
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 57,
+    "watchlist": 10860,
+    "id": 99,
+    "percentage": 0.02,
+    "timestamp": "Oct 14, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -2,
+    "degisim": -0.018416206261510127
   }
 ]
