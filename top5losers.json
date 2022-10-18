@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 57,
+    "watchlist": 10865,
+    "id": 99,
+    "percentage": 0.02,
+    "timestamp": "Oct 18, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -6,
+    "degisim": -0.05522319374137137
+  },
+  {
+    "slug": "bitcoin-sv",
+    "name": "Bitcoin SV",
+    "url": "https://coinmarketcap.com/currencies/bitcoin-sv/",
+    "rank": 53,
+    "watchlist": 73292,
+    "id": 87,
+    "percentage": 0.14,
+    "timestamp": "Oct 18, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3602.png",
+    "difference": -3,
+    "degisim": -0.004093216176390329
+  },
+  {
+    "slug": "fei-usd",
+    "name": "FEI USD",
+    "url": "https://coinmarketcap.com/currencies/fei-usd/",
+    "rank": 81,
+    "watchlist": 10076,
+    "id": 100,
+    "percentage": 0.02,
+    "timestamp": "Oct 18, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/8642.png",
+    "difference": -3,
+    "degisim": -0.029773719730051607
+  },
+  {
+    "slug": "convex-finance",
+    "name": "Convex Finance",
+    "url": "https://coinmarketcap.com/currencies/convex-finance/",
+    "rank": 90,
+    "watchlist": 42992,
+    "id": 94,
+    "percentage": 0.08,
+    "timestamp": "Oct 18, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/9903.png",
+    "difference": -2,
+    "degisim": -0.004652028284331969
+  }
+]
