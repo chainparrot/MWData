@@ -4,38 +4,12 @@
     "name": "USDD",
     "url": "https://coinmarketcap.com/currencies/usdd/",
     "rank": 60,
-    "watchlist": 10859,
-    "id": 99,
-    "percentage": 0.02,
-    "timestamp": "Oct 19, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
-    "difference": -6,
-    "degisim": -0.05525370660281794
-  },
-  {
-    "slug": "trueusd",
-    "name": "Trueusd",
-    "url": "https://coinmarketcap.com/currencies/trueusd/",
-    "rank": 57,
-    "watchlist": 28091,
-    "id": 96,
-    "percentage": 0.06,
-    "timestamp": "Oct 19, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2563.png",
-    "difference": -1,
-    "degisim": -0.003559859029582429
-  },
-  {
-    "slug": "neutrino-usd",
-    "name": "Neutrino USD",
-    "url": "https://coinmarketcap.com/currencies/neutrino-usd/",
-    "rank": 64,
-    "watchlist": 11963,
+    "watchlist": 10854,
     "id": 98,
     "percentage": 0.02,
-    "timestamp": "Oct 19, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5068.png",
-    "difference": -1,
-    "degisim": -0.008359107247345983
+    "timestamp": "Oct 20, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -5,
+    "degisim": -0.04606596646397641
   }
 ]
