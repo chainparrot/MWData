@@ -1,67 +1,67 @@
 [
   {
+    "slug": "aptos",
+    "name": "Aptos",
+    "url": "https://coinmarketcap.com/currencies/aptos/",
+    "rank": 51,
+    "watchlist": 30390,
+    "id": 95,
+    "percentage": 0.06,
+    "timestamp": "Oct 21, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/21794.png",
+    "difference": 4607,
+    "degisim": 15.159591971043106
+  },
+  {
     "slug": "xrp",
     "name": "Ripple",
     "url": "https://coinmarketcap.com/currencies/xrp/",
     "rank": 6,
-    "watchlist": 1666651,
+    "watchlist": 1667537,
     "id": 8,
-    "percentage": 3.3,
-    "timestamp": "Oct 20, 2022",
+    "percentage": 3.29,
+    "timestamp": "Oct 21, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/52.png",
-    "difference": 919,
-    "degisim": 0.055140518320872224
+    "difference": 886,
+    "degisim": 0.05313225433678533
   },
   {
     "slug": "binance-usd",
     "name": "Binance USD",
     "url": "https://coinmarketcap.com/currencies/binance-usd/",
     "rank": 7,
-    "watchlist": 251643,
+    "watchlist": 252307,
     "id": 52,
     "percentage": 0.5,
-    "timestamp": "Oct 20, 2022",
+    "timestamp": "Oct 21, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4687.png",
-    "difference": 541,
-    "degisim": 0.21498710474759877
-  },
-  {
-    "slug": "quant",
-    "name": "Quant",
-    "url": "https://coinmarketcap.com/currencies/quant/",
-    "rank": 30,
-    "watchlist": 227324,
-    "id": 57,
-    "percentage": 0.45,
-    "timestamp": "Oct 20, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3155.png",
-    "difference": 507,
-    "degisim": 0.2230296845031761
+    "difference": 664,
+    "degisim": 0.26317145382411106
   },
   {
     "slug": "polygon",
     "name": "Polygon",
     "url": "https://coinmarketcap.com/currencies/polygon/",
     "rank": 11,
-    "watchlist": 1306854,
+    "watchlist": 1307344,
     "id": 11,
-    "percentage": 2.59,
-    "timestamp": "Oct 20, 2022",
+    "percentage": 2.58,
+    "timestamp": "Oct 21, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3890.png",
-    "difference": 404,
-    "degisim": 0.030913935298051656
+    "difference": 490,
+    "degisim": 0.0374805712956957
   },
   {
     "slug": "cardano",
     "name": "Cardano",
     "url": "https://coinmarketcap.com/currencies/cardano/",
     "rank": 8,
-    "watchlist": 2230424,
+    "watchlist": 2230907,
     "id": 4,
-    "percentage": 4.41,
-    "timestamp": "Oct 20, 2022",
+    "percentage": 4.4,
+    "timestamp": "Oct 21, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2010.png",
-    "difference": 378,
-    "degisim": 0.01694745035024731
+    "difference": 483,
+    "degisim": 0.021650387039890053
   }
 ]
