@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 64,
+    "watchlist": 10869,
+    "id": 98,
+    "percentage": 0.02,
+    "timestamp": "Nov 05, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -9,
+    "degisim": -0.08280430582390284
+  }
+]
