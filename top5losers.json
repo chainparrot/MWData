@@ -3,26 +3,26 @@
     "slug": "terra-luna",
     "name": "Terra Luna",
     "url": "https://coinmarketcap.com/currencies/terra-luna/",
-    "rank": 36,
-    "watchlist": 1027018,
+    "rank": 41,
+    "watchlist": 1026841,
     "id": 13,
     "percentage": 2.0,
-    "timestamp": "Nov 14, 2022",
+    "timestamp": "Nov 15, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4172.png",
-    "difference": -145,
-    "degisim": -0.01411854514721261
+    "difference": -177,
+    "degisim": -0.017237332751613932
   },
   {
-    "slug": "nem",
-    "name": "Nem",
-    "url": "https://coinmarketcap.com/currencies/nem/",
-    "rank": 97,
-    "watchlist": 168702,
-    "id": 66,
-    "percentage": 0.33,
-    "timestamp": "Nov 14, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/873.png",
-    "difference": -1,
-    "degisim": -0.0005927612002228782
+    "slug": "decred",
+    "name": "Decred",
+    "url": "https://coinmarketcap.com/currencies/decred/",
+    "rank": 95,
+    "watchlist": 60565,
+    "id": 84,
+    "percentage": 0.12,
+    "timestamp": "Nov 15, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1168.png",
+    "difference": -3,
+    "degisim": -0.004953355898621316
   }
 ]
