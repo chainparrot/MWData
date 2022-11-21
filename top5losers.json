@@ -1,54 +1,28 @@
 [
   {
+    "slug": "terra-luna",
+    "name": "Terra Luna",
+    "url": "https://coinmarketcap.com/currencies/terra-luna/",
+    "rank": 41,
+    "watchlist": 1026799,
+    "id": 13,
+    "percentage": 1.98,
+    "timestamp": "Nov 21, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4172.png",
+    "difference": -45,
+    "degisim": -0.004382551989240348
+  },
+  {
     "slug": "gatetoken",
     "name": "GateToken",
     "url": "https://coinmarketcap.com/currencies/gatetoken/",
-    "rank": 80,
-    "watchlist": 54024,
-    "id": 87,
-    "percentage": 0.11,
-    "timestamp": "Nov 20, 2022",
+    "rank": 78,
+    "watchlist": 54017,
+    "id": 88,
+    "percentage": 0.1,
+    "timestamp": "Nov 21, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4269.png",
-    "difference": -8,
-    "degisim": -0.014808233377758034
-  },
-  {
-    "slug": "kucoin-token",
-    "name": "KuCoin Token",
-    "url": "https://coinmarketcap.com/currencies/kucoin-token/",
-    "rank": 54,
-    "watchlist": 177676,
-    "id": 65,
-    "percentage": 0.35,
-    "timestamp": "Nov 20, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2087.png",
-    "difference": -4,
-    "degisim": -0.002251288862873995
-  },
-  {
-    "slug": "usdd",
-    "name": "USDD",
-    "url": "https://coinmarketcap.com/currencies/usdd/",
-    "rank": 53,
-    "watchlist": 11399,
-    "id": 98,
-    "percentage": 0.02,
-    "timestamp": "Nov 20, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
-    "difference": -3,
-    "degisim": -0.02631809807877884
-  },
-  {
-    "slug": "decred",
-    "name": "Decred",
-    "url": "https://coinmarketcap.com/currencies/decred/",
-    "rank": 98,
-    "watchlist": 60668,
-    "id": 84,
-    "percentage": 0.12,
-    "timestamp": "Nov 20, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1168.png",
-    "difference": -1,
-    "degisim": -0.0016483154216390848
+    "difference": -7,
+    "degisim": -0.0129588833145121
   }
 ]
