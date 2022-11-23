@@ -3,52 +3,26 @@
     "slug": "terra-luna",
     "name": "Terra Luna",
     "url": "https://coinmarketcap.com/currencies/terra-luna/",
-    "rank": 44,
-    "watchlist": 1026641,
+    "rank": 40,
+    "watchlist": 1026569,
     "id": 13,
-    "percentage": 2.0,
-    "timestamp": "Nov 22, 2022",
+    "percentage": 1.99,
+    "timestamp": "Nov 23, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4172.png",
-    "difference": -158,
-    "degisim": -0.015389995139488877
+    "difference": -72,
+    "degisim": -0.0070136542210021925
   },
   {
     "slug": "usdd",
     "name": "USDD",
     "url": "https://coinmarketcap.com/currencies/usdd/",
-    "rank": 52,
-    "watchlist": 11393,
+    "rank": 53,
+    "watchlist": 11383,
     "id": 98,
     "percentage": 0.02,
-    "timestamp": "Nov 22, 2022",
+    "timestamp": "Nov 23, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
-    "difference": -7,
-    "degisim": -0.06144123584657246
-  },
-  {
-    "slug": "gatetoken",
-    "name": "GateToken",
-    "url": "https://coinmarketcap.com/currencies/gatetoken/",
-    "rank": 79,
-    "watchlist": 54014,
-    "id": 87,
-    "percentage": 0.1,
-    "timestamp": "Nov 22, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4269.png",
-    "difference": -3,
-    "degisim": -0.0055541155996593474
-  },
-  {
-    "slug": "fei-usd",
-    "name": "FEI USD",
-    "url": "https://coinmarketcap.com/currencies/fei-usd/",
-    "rank": 73,
-    "watchlist": 10240,
-    "id": 100,
-    "percentage": 0.02,
-    "timestamp": "Nov 22, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/8642.png",
-    "difference": -1,
-    "degisim": -0.009765625
+    "difference": -10,
+    "degisim": -0.08785030308354563
   }
 ]
