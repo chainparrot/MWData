@@ -1,67 +1,67 @@
 [
   {
+    "slug": "litecoin",
+    "name": "Litecoin",
+    "url": "https://coinmarketcap.com/currencies/litecoin/",
+    "rank": 13,
+    "watchlist": 792175,
+    "id": 21,
+    "percentage": 1.53,
+    "timestamp": "Nov 27, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2.png",
+    "difference": 782,
+    "degisim": 0.0987155615867706
+  },
+  {
     "slug": "dogecoin",
     "name": "Dogecoin",
     "url": "https://coinmarketcap.com/currencies/dogecoin/",
     "rank": 8,
-    "watchlist": 1659188,
+    "watchlist": 1659868,
     "id": 9,
     "percentage": 3.21,
-    "timestamp": "Nov 26, 2022",
+    "timestamp": "Nov 27, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/74.png",
-    "difference": 484,
-    "degisim": 0.029170895642928952
+    "difference": 680,
+    "degisim": 0.04096711304754354
   },
   {
     "slug": "bnb",
     "name": "Binance Coin",
     "url": "https://coinmarketcap.com/currencies/bnb/",
     "rank": 4,
-    "watchlist": 1823363,
+    "watchlist": 1823933,
     "id": 5,
     "percentage": 3.53,
-    "timestamp": "Nov 26, 2022",
+    "timestamp": "Nov 27, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
-    "difference": 420,
-    "degisim": 0.023034360135639476
+    "difference": 570,
+    "degisim": 0.031251147931420725
   },
   {
     "slug": "xrp",
     "name": "Ripple",
     "url": "https://coinmarketcap.com/currencies/xrp/",
     "rank": 7,
-    "watchlist": 1687039,
+    "watchlist": 1687460,
     "id": 8,
     "percentage": 3.27,
-    "timestamp": "Nov 26, 2022",
+    "timestamp": "Nov 27, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/52.png",
-    "difference": 410,
-    "degisim": 0.024302935498230926
+    "difference": 421,
+    "degisim": 0.02494873952567765
   },
   {
     "slug": "polygon",
     "name": "Polygon",
     "url": "https://coinmarketcap.com/currencies/polygon/",
     "rank": 10,
-    "watchlist": 1338553,
+    "watchlist": 1338971,
     "id": 11,
     "percentage": 2.59,
-    "timestamp": "Nov 26, 2022",
+    "timestamp": "Nov 27, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3890.png",
-    "difference": 401,
-    "degisim": 0.0299577230038706
-  },
-  {
-    "slug": "litecoin",
-    "name": "Litecoin",
-    "url": "https://coinmarketcap.com/currencies/litecoin/",
-    "rank": 13,
-    "watchlist": 791393,
-    "id": 21,
-    "percentage": 1.53,
-    "timestamp": "Nov 26, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2.png",
-    "difference": 374,
-    "degisim": 0.047258441760288504
+    "difference": 418,
+    "degisim": 0.03121800248100967
   }
 ]
