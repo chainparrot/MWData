@@ -1,67 +1,67 @@
 [
   {
-    "slug": "litecoin",
-    "name": "Litecoin",
-    "url": "https://coinmarketcap.com/currencies/litecoin/",
-    "rank": 13,
-    "watchlist": 792175,
-    "id": 21,
-    "percentage": 1.53,
-    "timestamp": "Nov 27, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2.png",
-    "difference": 782,
-    "degisim": 0.0987155615867706
-  },
-  {
     "slug": "dogecoin",
     "name": "Dogecoin",
     "url": "https://coinmarketcap.com/currencies/dogecoin/",
     "rank": 8,
-    "watchlist": 1659868,
+    "watchlist": 1660655,
     "id": 9,
-    "percentage": 3.21,
-    "timestamp": "Nov 27, 2022",
+    "percentage": 3.22,
+    "timestamp": "Nov 28, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/74.png",
-    "difference": 680,
-    "degisim": 0.04096711304754354
+    "difference": 787,
+    "degisim": 0.04739093911739645
   },
   {
     "slug": "bnb",
     "name": "Binance Coin",
     "url": "https://coinmarketcap.com/currencies/bnb/",
     "rank": 4,
-    "watchlist": 1823933,
+    "watchlist": 1824415,
     "id": 5,
-    "percentage": 3.53,
-    "timestamp": "Nov 27, 2022",
+    "percentage": 3.54,
+    "timestamp": "Nov 28, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
-    "difference": 570,
-    "degisim": 0.031251147931420725
+    "difference": 482,
+    "degisim": 0.02641942759733942
   },
   {
     "slug": "xrp",
     "name": "Ripple",
     "url": "https://coinmarketcap.com/currencies/xrp/",
     "rank": 7,
-    "watchlist": 1687460,
+    "watchlist": 1687885,
     "id": 8,
-    "percentage": 3.27,
-    "timestamp": "Nov 27, 2022",
+    "percentage": 3.28,
+    "timestamp": "Nov 28, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/52.png",
-    "difference": 421,
-    "degisim": 0.02494873952567765
+    "difference": 425,
+    "degisim": 0.02517944054245402
+  },
+  {
+    "slug": "shiba-inu",
+    "name": "Shiba Inu",
+    "url": "https://coinmarketcap.com/currencies/shiba-inu/",
+    "rank": 14,
+    "watchlist": 1805464,
+    "id": 6,
+    "percentage": 3.51,
+    "timestamp": "Nov 28, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5994.png",
+    "difference": 394,
+    "degisim": 0.021822645037508363
   },
   {
     "slug": "polygon",
     "name": "Polygon",
     "url": "https://coinmarketcap.com/currencies/polygon/",
     "rank": 10,
-    "watchlist": 1338971,
+    "watchlist": 1339312,
     "id": 11,
-    "percentage": 2.59,
-    "timestamp": "Nov 27, 2022",
+    "percentage": 2.6,
+    "timestamp": "Nov 28, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3890.png",
-    "difference": 418,
-    "degisim": 0.03121800248100967
+    "difference": 341,
+    "degisim": 0.025460833622038777
   }
 ]
