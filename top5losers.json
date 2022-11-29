@@ -1,15 +1,15 @@
 [
   {
-    "slug": "gatetoken",
-    "name": "GateToken",
-    "url": "https://coinmarketcap.com/currencies/gatetoken/",
-    "rank": 77,
-    "watchlist": 54036,
-    "id": 88,
-    "percentage": 0.1,
-    "timestamp": "Nov 28, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4269.png",
-    "difference": -2,
-    "degisim": -0.003701236212895107
+    "slug": "terra-luna",
+    "name": "Terra Luna",
+    "url": "https://coinmarketcap.com/currencies/terra-luna/",
+    "rank": 42,
+    "watchlist": 1026602,
+    "id": 13,
+    "percentage": 1.99,
+    "timestamp": "Nov 29, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4172.png",
+    "difference": -10,
+    "degisim": -0.0009740873288772085
   }
 ]
