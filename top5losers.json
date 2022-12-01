@@ -1,54 +1,15 @@
 [
   {
-    "slug": "terra-luna",
-    "name": "Terra Luna",
-    "url": "https://coinmarketcap.com/currencies/terra-luna/",
-    "rank": 43,
-    "watchlist": 1026594,
-    "id": 13,
-    "percentage": 1.98,
-    "timestamp": "Nov 30, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4172.png",
-    "difference": -8,
-    "degisim": -0.0007792759357642846
-  },
-  {
-    "slug": "gatetoken",
-    "name": "GateToken",
-    "url": "https://coinmarketcap.com/currencies/gatetoken/",
-    "rank": 78,
-    "watchlist": 54043,
-    "id": 88,
-    "percentage": 0.1,
-    "timestamp": "Nov 30, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4269.png",
-    "difference": -3,
-    "degisim": -0.005551135207149862
-  },
-  {
-    "slug": "usdd",
-    "name": "USDD",
-    "url": "https://coinmarketcap.com/currencies/usdd/",
-    "rank": 54,
-    "watchlist": 11386,
-    "id": 98,
-    "percentage": 0.02,
-    "timestamp": "Nov 30, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "slug": "decred",
+    "name": "Decred",
+    "url": "https://coinmarketcap.com/currencies/decred/",
+    "rank": 94,
+    "watchlist": 60792,
+    "id": 85,
+    "percentage": 0.12,
+    "timestamp": "Dec 01, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1168.png",
     "difference": -2,
-    "degisim": -0.01756543123133673
-  },
-  {
-    "slug": "gemini-dollar",
-    "name": "Gemini-dollar",
-    "url": "https://coinmarketcap.com/currencies/gemini-dollar/",
-    "rank": 64,
-    "watchlist": 10802,
-    "id": 99,
-    "percentage": 0.02,
-    "timestamp": "Nov 30, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3306.png",
-    "difference": -1,
-    "degisim": -0.009257544899092762
+    "degisim": -0.0032899065666535075
   }
 ]
