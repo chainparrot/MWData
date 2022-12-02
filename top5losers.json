@@ -1,15 +1,15 @@
 [
   {
-    "slug": "decred",
-    "name": "Decred",
-    "url": "https://coinmarketcap.com/currencies/decred/",
-    "rank": 94,
-    "watchlist": 60792,
-    "id": 85,
-    "percentage": 0.12,
-    "timestamp": "Dec 01, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1168.png",
-    "difference": -2,
-    "degisim": -0.0032899065666535075
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 54,
+    "watchlist": 11388,
+    "id": 98,
+    "percentage": 0.02,
+    "timestamp": "Dec 02, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -5,
+    "degisim": -0.04390586582367404
   }
 ]
