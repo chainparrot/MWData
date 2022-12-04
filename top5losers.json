@@ -1,28 +1,15 @@
 [
   {
-    "slug": "nexo",
-    "name": "Nexo",
-    "url": "https://coinmarketcap.com/currencies/nexo/",
-    "rank": 80,
-    "watchlist": 116548,
-    "id": 76,
-    "percentage": 0.23,
-    "timestamp": "Dec 03, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png",
+    "slug": "paxos-standard",
+    "name": "Paxos Standard",
+    "url": "https://coinmarketcap.com/currencies/paxos-standard/",
+    "rank": 45,
+    "watchlist": 28689,
+    "id": 95,
+    "percentage": 0.06,
+    "timestamp": "Dec 04, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3330.png",
     "difference": -2,
-    "degisim": -0.0017160311631259225
-  },
-  {
-    "slug": "neutrino-usd",
-    "name": "Neutrino USD",
-    "url": "https://coinmarketcap.com/currencies/neutrino-usd/",
-    "rank": 65,
-    "watchlist": 12330,
-    "id": 97,
-    "percentage": 0.02,
-    "timestamp": "Dec 03, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5068.png",
-    "difference": -2,
-    "degisim": -0.016220600162206
+    "degisim": -0.006971313046812366
   }
 ]
