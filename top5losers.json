@@ -4,38 +4,12 @@
     "name": "Trueusd",
     "url": "https://coinmarketcap.com/currencies/trueusd/",
     "rank": 52,
-    "watchlist": 28617,
+    "watchlist": 28616,
     "id": 96,
     "percentage": 0.06,
-    "timestamp": "Dec 06, 2022",
+    "timestamp": "Dec 07, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2563.png",
-    "difference": -4,
-    "degisim": -0.013977705559632386
-  },
-  {
-    "slug": "usdd",
-    "name": "USDD",
-    "url": "https://coinmarketcap.com/currencies/usdd/",
-    "rank": 56,
-    "watchlist": 11403,
-    "id": 98,
-    "percentage": 0.02,
-    "timestamp": "Dec 06, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
-    "difference": -3,
-    "degisim": -0.026308866087871613
-  },
-  {
-    "slug": "nem",
-    "name": "Nem",
-    "url": "https://coinmarketcap.com/currencies/nem/",
-    "rank": 96,
-    "watchlist": 169098,
-    "id": 67,
-    "percentage": 0.33,
-    "timestamp": "Dec 06, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/873.png",
-    "difference": -2,
-    "degisim": -0.0011827460998947356
+    "difference": -1,
+    "degisim": -0.00349454850433324
   }
 ]
