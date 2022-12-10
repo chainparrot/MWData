@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "slug": "trueusd",
+    "name": "Trueusd",
+    "url": "https://coinmarketcap.com/currencies/trueusd/",
+    "rank": 53,
+    "watchlist": 28619,
+    "id": 96,
+    "percentage": 0.06,
+    "timestamp": "Dec 10, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2563.png",
+    "difference": -3,
+    "degisim": -0.010482546559977638
+  }
+]
