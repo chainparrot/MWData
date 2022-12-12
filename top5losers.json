@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "slug": "nexo",
+    "name": "Nexo",
+    "url": "https://coinmarketcap.com/currencies/nexo/",
+    "rank": 82,
+    "watchlist": 116706,
+    "id": 76,
+    "percentage": 0.23,
+    "timestamp": "Dec 12, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png",
+    "difference": -6,
+    "degisim": -0.005141123849673539
+  },
+  {
+    "slug": "nem",
+    "name": "Nem",
+    "url": "https://coinmarketcap.com/currencies/nem/",
+    "rank": 94,
+    "watchlist": 169143,
+    "id": 68,
+    "percentage": 0.33,
+    "timestamp": "Dec 12, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/873.png",
+    "difference": -4,
+    "degisim": -0.00236486286751447
+  },
+  {
+    "slug": "decred",
+    "name": "Decred",
+    "url": "https://coinmarketcap.com/currencies/decred/",
+    "rank": 90,
+    "watchlist": 60955,
+    "id": 85,
+    "percentage": 0.12,
+    "timestamp": "Dec 12, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1168.png",
+    "difference": -2,
+    "degisim": -0.0032811090148470185
+  },
+  {
+    "slug": "gatetoken",
+    "name": "GateToken",
+    "url": "https://coinmarketcap.com/currencies/gatetoken/",
+    "rank": 81,
+    "watchlist": 54120,
+    "id": 89,
+    "percentage": 0.11,
+    "timestamp": "Dec 12, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4269.png",
+    "difference": -2,
+    "degisim": -0.003695491500369549
+  }
+]
