@@ -1,15 +1,15 @@
 [
   {
-    "slug": "enjin-coin",
-    "name": "Enjin Coin",
-    "url": "https://coinmarketcap.com/currencies/enjin-coin/",
-    "rank": 94,
-    "watchlist": 583166,
-    "id": 28,
-    "percentage": 1.14,
-    "timestamp": "Dec 15, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2130.png",
-    "difference": -7,
-    "degisim": -0.0012003443273441868
+    "slug": "dogecoin",
+    "name": "Dogecoin",
+    "url": "https://coinmarketcap.com/currencies/dogecoin/",
+    "rank": 8,
+    "watchlist": 1667660,
+    "id": 9,
+    "percentage": 3.26,
+    "timestamp": "Dec 16, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/74.png",
+    "difference": -68,
+    "degisim": -0.004077569768418022
   }
 ]
