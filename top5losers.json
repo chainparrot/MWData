@@ -3,26 +3,52 @@
     "slug": "terra-luna",
     "name": "Terra Luna",
     "url": "https://coinmarketcap.com/currencies/terra-luna/",
-    "rank": 43,
-    "watchlist": 1027280,
+    "rank": 44,
+    "watchlist": 1027226,
     "id": 13,
     "percentage": 2.01,
-    "timestamp": "Dec 20, 2022",
+    "timestamp": "Dec 21, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4172.png",
-    "difference": -32,
-    "degisim": -0.003115022194533136
+    "difference": -54,
+    "degisim": -0.005256876286231073
+  },
+  {
+    "slug": "gatetoken",
+    "name": "GateToken",
+    "url": "https://coinmarketcap.com/currencies/gatetoken/",
+    "rank": 77,
+    "watchlist": 54160,
+    "id": 89,
+    "percentage": 0.11,
+    "timestamp": "Dec 21, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4269.png",
+    "difference": -6,
+    "degisim": -0.011078286558345644
   },
   {
     "slug": "kucoin-token",
     "name": "KuCoin Token",
     "url": "https://coinmarketcap.com/currencies/kucoin-token/",
     "rank": 55,
-    "watchlist": 178046,
+    "watchlist": 178041,
     "id": 64,
     "percentage": 0.35,
-    "timestamp": "Dec 20, 2022",
+    "timestamp": "Dec 21, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2087.png",
-    "difference": -1,
-    "degisim": -0.0005616526066297474
+    "difference": -5,
+    "degisim": -0.0028083418987761245
+  },
+  {
+    "slug": "nem",
+    "name": "Nem",
+    "url": "https://coinmarketcap.com/currencies/nem/",
+    "rank": 93,
+    "watchlist": 169219,
+    "id": 66,
+    "percentage": 0.33,
+    "timestamp": "Dec 21, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/873.png",
+    "difference": -2,
+    "degisim": -0.0011819003776171707
   }
 ]
