@@ -1,28 +1,15 @@
 [
   {
-    "slug": "kucoin-token",
-    "name": "KuCoin Token",
-    "url": "https://coinmarketcap.com/currencies/kucoin-token/",
-    "rank": 55,
-    "watchlist": 178039,
-    "id": 65,
-    "percentage": 0.35,
-    "timestamp": "Dec 22, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2087.png",
-    "difference": -2,
-    "degisim": -0.0011233493785069565
-  },
-  {
-    "slug": "nem",
-    "name": "Nem",
-    "url": "https://coinmarketcap.com/currencies/nem/",
-    "rank": 94,
-    "watchlist": 169218,
-    "id": 67,
-    "percentage": 0.33,
-    "timestamp": "Dec 22, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/873.png",
+    "slug": "fei-usd",
+    "name": "FEI USD",
+    "url": "https://coinmarketcap.com/currencies/fei-usd/",
+    "rank": 72,
+    "watchlist": 10331,
+    "id": 100,
+    "percentage": 0.02,
+    "timestamp": "Dec 23, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/8642.png",
     "difference": -1,
-    "degisim": -0.0005909536810504793
+    "degisim": -0.009679605072113058
   }
 ]
