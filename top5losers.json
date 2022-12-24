@@ -1,15 +1,15 @@
 [
   {
-    "slug": "fei-usd",
-    "name": "FEI USD",
-    "url": "https://coinmarketcap.com/currencies/fei-usd/",
-    "rank": 72,
-    "watchlist": 10331,
-    "id": 100,
-    "percentage": 0.02,
-    "timestamp": "Dec 23, 2022",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/8642.png",
-    "difference": -1,
-    "degisim": -0.009679605072113058
+    "slug": "nexo",
+    "name": "Nexo",
+    "url": "https://coinmarketcap.com/currencies/nexo/",
+    "rank": 79,
+    "watchlist": 116814,
+    "id": 74,
+    "percentage": 0.23,
+    "timestamp": "Dec 24, 2022",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png",
+    "difference": -4,
+    "degisim": -0.003424247093670279
   }
 ]
