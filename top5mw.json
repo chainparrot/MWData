@@ -3,65 +3,65 @@
     "slug": "the-sandbox",
     "name": "The Sandbox",
     "url": "https://coinmarketcap.com/currencies/the-sandbox/",
-    "rank": 52,
-    "watchlist": 2281076,
+    "rank": 53,
+    "watchlist": 2281151,
     "id": 3,
     "percentage": 4.46,
-    "timestamp": "Dec 28, 2022",
+    "timestamp": "Dec 29, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/6210.png",
-    "difference": 92,
-    "degisim": 0.004033184339320566
+    "difference": 75,
+    "degisim": 0.0032878139149929136
   },
   {
     "slug": "cardano",
     "name": "Cardano",
     "url": "https://coinmarketcap.com/currencies/cardano/",
     "rank": 9,
-    "watchlist": 2254905,
+    "watchlist": 2255163,
     "id": 4,
     "percentage": 4.41,
-    "timestamp": "Dec 28, 2022",
+    "timestamp": "Dec 29, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2010.png",
-    "difference": 255,
-    "degisim": 0.011308680410039447
+    "difference": 258,
+    "degisim": 0.01144041472833671
   },
   {
     "slug": "bnb",
     "name": "Binance Coin",
     "url": "https://coinmarketcap.com/currencies/bnb/",
     "rank": 5,
-    "watchlist": 1836086,
+    "watchlist": 1837051,
     "id": 5,
     "percentage": 3.59,
-    "timestamp": "Dec 28, 2022",
+    "timestamp": "Dec 29, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
-    "difference": 1033,
-    "degisim": 0.05626098123944085
+    "difference": 965,
+    "degisim": 0.052529842666316835
   },
   {
     "slug": "shiba-inu",
     "name": "Shiba Inu",
     "url": "https://coinmarketcap.com/currencies/shiba-inu/",
     "rank": 15,
-    "watchlist": 1812291,
+    "watchlist": 1812453,
     "id": 6,
     "percentage": 3.55,
-    "timestamp": "Dec 28, 2022",
+    "timestamp": "Dec 29, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5994.png",
-    "difference": 210,
-    "degisim": 0.011587543060137692
+    "difference": 162,
+    "degisim": 0.008938162810290806
   },
   {
     "slug": "solana",
     "name": "Solana",
     "url": "https://coinmarketcap.com/currencies/solana/",
-    "rank": 16,
-    "watchlist": 1754172,
+    "rank": 17,
+    "watchlist": 1754528,
     "id": 7,
     "percentage": 3.43,
-    "timestamp": "Dec 28, 2022",
+    "timestamp": "Dec 29, 2022",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5426.png",
-    "difference": 205,
-    "degisim": 0.011686425276426713
+    "difference": 356,
+    "degisim": 0.020290357292673585
   }
 ]
