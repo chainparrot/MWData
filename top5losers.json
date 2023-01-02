@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "slug": "litecoin",
+    "name": "Litecoin",
+    "url": "https://coinmarketcap.com/currencies/litecoin/",
+    "rank": 12,
+    "watchlist": 800856,
+    "id": 20,
+    "percentage": 1.57,
+    "timestamp": "Jan 02, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2.png",
+    "difference": -499,
+    "degisim": -0.06230833008680712
+  },
+  {
+    "slug": "gemini-dollar",
+    "name": "Gemini-dollar",
+    "url": "https://coinmarketcap.com/currencies/gemini-dollar/",
+    "rank": 54,
+    "watchlist": 10901,
+    "id": 99,
+    "percentage": 0.02,
+    "timestamp": "Jan 02, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3306.png",
+    "difference": -4,
+    "degisim": -0.03669388129529401
+  }
+]
