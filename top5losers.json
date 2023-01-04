@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "slug": "kucoin-token",
+    "name": "KuCoin Token",
+    "url": "https://coinmarketcap.com/currencies/kucoin-token/",
+    "rank": 54,
+    "watchlist": 178950,
+    "id": 65,
+    "percentage": 0.35,
+    "timestamp": "Jan 04, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2087.png",
+    "difference": -3,
+    "degisim": -0.0016764459346186086
+  },
+  {
+    "slug": "trueusd",
+    "name": "Trueusd",
+    "url": "https://coinmarketcap.com/currencies/trueusd/",
+    "rank": 43,
+    "watchlist": 30787,
+    "id": 94,
+    "percentage": 0.06,
+    "timestamp": "Jan 04, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2563.png",
+    "difference": -2,
+    "degisim": -0.006496248416539448
+  },
+  {
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 50,
+    "watchlist": 13869,
+    "id": 97,
+    "percentage": 0.03,
+    "timestamp": "Jan 04, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -1,
+    "degisim": -0.007210325185665873
+  }
+]
