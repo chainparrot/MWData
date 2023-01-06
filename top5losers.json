@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 51,
+    "watchlist": 13867,
+    "id": 97,
+    "percentage": 0.03,
+    "timestamp": "Jan 06, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -3,
+    "degisim": -0.02163409533424677
+  },
+  {
+    "slug": "fei-usd",
+    "name": "FEI USD",
+    "url": "https://coinmarketcap.com/currencies/fei-usd/",
+    "rank": 73,
+    "watchlist": 10372,
+    "id": 100,
+    "percentage": 0.02,
+    "timestamp": "Jan 06, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/8642.png",
+    "difference": -3,
+    "degisim": -0.028924026224450446
+  }
+]
