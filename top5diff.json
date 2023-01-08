@@ -4,64 +4,64 @@
     "name": "Binance Coin",
     "url": "https://coinmarketcap.com/currencies/bnb/",
     "rank": 5,
-    "watchlist": 1846431,
+    "watchlist": 1847593,
     "id": 5,
     "percentage": 3.6,
-    "timestamp": "Jan 07, 2023",
+    "timestamp": "Jan 08, 2023",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
-    "difference": 1561,
-    "degisim": 0.08454147487775064
-  },
-  {
-    "slug": "tether",
-    "name": "Tether",
-    "url": "https://coinmarketcap.com/currencies/tether/",
-    "rank": 3,
-    "watchlist": 1272959,
-    "id": 12,
-    "percentage": 2.48,
-    "timestamp": "Jan 07, 2023",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/825.png",
-    "difference": 1228,
-    "degisim": 0.09646815019179722
+    "difference": 1162,
+    "degisim": 0.06289263923385724
   },
   {
     "slug": "lido-dao",
     "name": "Lido DAO",
     "url": "https://coinmarketcap.com/currencies/lido-dao/",
     "rank": 34,
-    "watchlist": 46569,
+    "watchlist": 47309,
     "id": 91,
     "percentage": 0.09,
-    "timestamp": "Jan 07, 2023",
+    "timestamp": "Jan 08, 2023",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/8000.png",
-    "difference": 689,
-    "degisim": 1.4795250059052159
+    "difference": 740,
+    "degisim": 1.564184404658733
   },
   {
     "slug": "polygon",
     "name": "Polygon",
     "url": "https://coinmarketcap.com/currencies/polygon/",
     "rank": 10,
-    "watchlist": 1356278,
+    "watchlist": 1356762,
     "id": 11,
     "percentage": 2.64,
-    "timestamp": "Jan 07, 2023",
+    "timestamp": "Jan 08, 2023",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3890.png",
-    "difference": 425,
-    "degisim": 0.0313357585981635
+    "difference": 484,
+    "degisim": 0.0356731689124548
   },
   {
     "slug": "solana",
     "name": "Solana",
     "url": "https://coinmarketcap.com/currencies/solana/",
     "rank": 14,
-    "watchlist": 1759480,
+    "watchlist": 1759791,
     "id": 7,
     "percentage": 3.43,
-    "timestamp": "Jan 07, 2023",
+    "timestamp": "Jan 08, 2023",
     "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5426.png",
-    "difference": 393,
-    "degisim": 0.022336144770045696
+    "difference": 311,
+    "degisim": 0.01767255316114243
+  },
+  {
+    "slug": "shiba-inu",
+    "name": "Shiba Inu",
+    "url": "https://coinmarketcap.com/currencies/shiba-inu/",
+    "rank": 16,
+    "watchlist": 1815018,
+    "id": 6,
+    "percentage": 3.53,
+    "timestamp": "Jan 08, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/5994.png",
+    "difference": 298,
+    "degisim": 0.01641856995357622
   }
 ]
