@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "slug": "chiliz",
+    "name": "Chiliz",
+    "url": "https://coinmarketcap.com/currencies/chiliz/",
+    "rank": 51,
+    "watchlist": 560401,
+    "id": 30,
+    "percentage": 1.08,
+    "timestamp": "Jan 10, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4066.png",
+    "difference": -13,
+    "degisim": -0.002319767452235096
+  }
+]
