@@ -1,15 +1,41 @@
 [
   {
-    "slug": "chiliz",
-    "name": "Chiliz",
-    "url": "https://coinmarketcap.com/currencies/chiliz/",
-    "rank": 51,
-    "watchlist": 560401,
-    "id": 30,
-    "percentage": 1.08,
-    "timestamp": "Jan 10, 2023",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4066.png",
-    "difference": -13,
-    "degisim": -0.002319767452235096
+    "slug": "gatetoken",
+    "name": "GateToken",
+    "url": "https://coinmarketcap.com/currencies/gatetoken/",
+    "rank": 83,
+    "watchlist": 54275,
+    "id": 89,
+    "percentage": 0.1,
+    "timestamp": "Jan 11, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4269.png",
+    "difference": -6,
+    "degisim": -0.01105481345002303
+  },
+  {
+    "slug": "usdd",
+    "name": "USDD",
+    "url": "https://coinmarketcap.com/currencies/usdd/",
+    "rank": 57,
+    "watchlist": 13966,
+    "id": 97,
+    "percentage": 0.03,
+    "timestamp": "Jan 11, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
+    "difference": -3,
+    "degisim": -0.021480738937419447
+  },
+  {
+    "slug": "nexo",
+    "name": "Nexo",
+    "url": "https://coinmarketcap.com/currencies/nexo/",
+    "rank": 75,
+    "watchlist": 117129,
+    "id": 75,
+    "percentage": 0.23,
+    "timestamp": "Jan 11, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png",
+    "difference": -1,
+    "degisim": -0.0008537595300907548
   }
 ]
