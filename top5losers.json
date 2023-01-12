@@ -1,41 +1,28 @@
 [
   {
-    "slug": "gatetoken",
-    "name": "GateToken",
-    "url": "https://coinmarketcap.com/currencies/gatetoken/",
-    "rank": 83,
-    "watchlist": 54275,
-    "id": 89,
-    "percentage": 0.1,
-    "timestamp": "Jan 11, 2023",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/4269.png",
-    "difference": -6,
-    "degisim": -0.01105481345002303
-  },
-  {
-    "slug": "usdd",
-    "name": "USDD",
-    "url": "https://coinmarketcap.com/currencies/usdd/",
-    "rank": 57,
-    "watchlist": 13966,
-    "id": 97,
-    "percentage": 0.03,
-    "timestamp": "Jan 11, 2023",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19891.png",
-    "difference": -3,
-    "degisim": -0.021480738937419447
-  },
-  {
-    "slug": "nexo",
-    "name": "Nexo",
-    "url": "https://coinmarketcap.com/currencies/nexo/",
-    "rank": 75,
-    "watchlist": 117129,
-    "id": 75,
-    "percentage": 0.23,
-    "timestamp": "Jan 11, 2023",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png",
+    "slug": "unus-sed-leo",
+    "name": "Unus Sed Leo",
+    "url": "https://coinmarketcap.com/currencies/unus-sed-leo/",
+    "rank": 20,
+    "watchlist": 61010,
+    "id": 87,
+    "percentage": 0.12,
+    "timestamp": "Jan 12, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3957.png",
     "difference": -1,
-    "degisim": -0.0008537595300907548
+    "degisim": -0.00163907556138338
+  },
+  {
+    "slug": "gemini-dollar",
+    "name": "Gemini-dollar",
+    "url": "https://coinmarketcap.com/currencies/gemini-dollar/",
+    "rank": 64,
+    "watchlist": 10934,
+    "id": 99,
+    "percentage": 0.02,
+    "timestamp": "Jan 12, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3306.png",
+    "difference": -1,
+    "degisim": -0.009145783793671118
   }
 ]
