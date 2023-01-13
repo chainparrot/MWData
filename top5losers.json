@@ -1,28 +1,15 @@
 [
   {
-    "slug": "unus-sed-leo",
-    "name": "Unus Sed Leo",
-    "url": "https://coinmarketcap.com/currencies/unus-sed-leo/",
-    "rank": 20,
-    "watchlist": 61010,
-    "id": 87,
-    "percentage": 0.12,
-    "timestamp": "Jan 12, 2023",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3957.png",
-    "difference": -1,
-    "degisim": -0.00163907556138338
-  },
-  {
-    "slug": "gemini-dollar",
-    "name": "Gemini-dollar",
-    "url": "https://coinmarketcap.com/currencies/gemini-dollar/",
-    "rank": 64,
-    "watchlist": 10934,
-    "id": 99,
-    "percentage": 0.02,
-    "timestamp": "Jan 12, 2023",
-    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3306.png",
-    "difference": -1,
-    "degisim": -0.009145783793671118
+    "slug": "cronos",
+    "name": "Cronos",
+    "url": "https://coinmarketcap.com/currencies/cronos/",
+    "rank": 30,
+    "watchlist": 724679,
+    "id": 21,
+    "percentage": 1.41,
+    "timestamp": "Jan 13, 2023",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/3635.png",
+    "difference": -14,
+    "degisim": -0.0019318898436411155
   }
 ]
